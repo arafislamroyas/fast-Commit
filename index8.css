@@ -1,0 +1,30 @@
+body {
+    background-color: blueviolet;
+}
+div {
+    background-color: white;
+    width:480px ;
+    padding: 25px; padding-top: 1px;
+    margin-left: 258px;
+    margin-top: 180px;
+}
+h2 {
+    color:burlywood ;
+    text-align: center; 
+}
+input, textarea {
+    border:none;
+    border-bottom: 1px solid gray;
+    margin-right: 10px;
+    padding: 10px;
+
+}
+button {
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 40px;
+    border: none    ;
+}
+textarea {
+    width: 370px;
+}
